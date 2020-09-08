@@ -1,5 +1,7 @@
 # calculator
 
+![presentation gif](calc.gif)
+
 ## Project setup
 ```
 npm install
